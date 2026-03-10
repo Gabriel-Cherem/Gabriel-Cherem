@@ -91,7 +91,9 @@ Me chamo Gabriel Jeremias Cherem, tenho 19 anos e sou natural de Florianópolis/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<b>
+
+<p>
+
 ### Códigos Vigentes a dominar
 
 <img
