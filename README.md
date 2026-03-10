@@ -103,7 +103,8 @@ Me chamo Gabriel Jeremias Cherem, tenho 19 anos e sou natural de Florianópolis/
     title = "C#"
     width = "30px"
     style = "padding-right: 10px"
-    src = "https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp"
+    src = "<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0c5c4781-bb2d-4fc0-8798-72eb4d546a2e" />
+"
 />
 
 
