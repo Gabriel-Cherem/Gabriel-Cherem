@@ -26,7 +26,7 @@ Me chamo Gabriel Jeremias Cherem, tenho 19 anos e sou natural de Florianópolis/
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src=""
+            src="https://github.com/Gabriel-Cherem?tab=followers"
         />
     </a>
     <a href="https://github.com/Gabriel-Cherem?tab=followers">
