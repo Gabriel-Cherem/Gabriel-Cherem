@@ -1,132 +1,34 @@
-## Bem vindo ao meu Portfólio de Projetos e Desenvolvimento de Software 👋
+# Bem vindo ao meu Portfólio de Projetos e Desenvolvimento de Software 👋
 
-<!--
-**Gabriel-Cherem/Gabriel-Cherem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor Aprendiz
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-**`Desenvolvedor Aprendiz`**
-
-Me chamo Gabriel Jeremias Cherem, tenho 19 anos e sou natural de Florianópolis/SC. Concluí o ensino médio no IFSC, com o curso técnico em Telecomunicações. Atualmente, estou cursando Ciência da Computação na Univali. Sou apaixonado por Desenvolvimento de Software e onde Compartilho meu Perfil pessoal do Linkedin e meus projetos "[Dev em Dev](https://www.linkedin.com/in/gabriel-jeremias-cherem-66528727a/)".
-
-   <a> 
-    <a href="https://github.com/Gabriel-Cherem">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://github.com/Gabriel-Cherem?tab=followers"
-        />
-    </a>
-    <a href="https://github.com/Gabriel-Cherem?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers"
-        />
-    </a>
-</p>
+Me chamo **Gabriel Jeremias Cherem**, tenho 19 anos e sou natural de Florianópolis/SC. Concluí o ensino médio no IFSC, com o curso técnico em Telecomunicações. Atualmente, estou cursando Ciência da Computação na Univali. Sou apaixonado por Desenvolvimento de Software e onde Compartilho meu Perfil pessoal do Linkedin e meus projetos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌐 Conecte-se comigo
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+[![GitHub Followers](https://img.shields.io/badge/GitHub-Followers-blue?style=for-the-badge&logo=github)](https://github.com/Gabriel-Cherem?tab=followers)
+[![GitHub Following](https://img.shields.io/badge/GitHub-Following-green?style=for-the-badge&logo=github)](https://github.com/Gabriel-Cherem?tab=following)
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br>
-<br/>
+### 📚 Formação
 
-### Códigos Vigentes a dominar
+- **Ciência da Computação** - Univali (Cursando)
+- **Técnico em Telecomunicações** - IFSC (Concluído)
 
-<img
-    aling = "left"
-    alt = "C#"
-    title = "C#"
-    width = "30px"
-    style = "padding-right: 10px"
-    src = "https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white)"
-/>
+---
 
+### 💻 Sobre mim
 
+- 🔭 Atualmente focado em desenvolvimento de software
+- 🌱 Sempre aprendendo novas tecnologias
+- 📍 Florianópolis, Santa Catarina, Brasil
+- 🎓 19 anos
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cherem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-Cherem&color=blue" alt="Profile views">
+</div>
